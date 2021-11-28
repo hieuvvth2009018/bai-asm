@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="bài_assemain.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:bài_assemain">
+
+</Application>
